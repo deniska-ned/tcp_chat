@@ -1,0 +1,6 @@
+# executable files
+server.out
+debug_server.out
+
+#object files
+out/*
