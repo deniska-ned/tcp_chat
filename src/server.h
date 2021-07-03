@@ -13,6 +13,10 @@ struct server
 };
 
 
+/** set_nonblock - set file descriptor to nonblocking mode
+ *
+ * @param fd file descriptor
+ */
 int set_nonblock(const int fd);
 
 int server_prepare(struct server *server);
