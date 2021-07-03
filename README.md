@@ -1,6 +1,6 @@
 # simple tcp chat server
 
-use as client `telnet` for example
+use `telnet` as client, for example
 
 
 ###### PS
